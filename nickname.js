@@ -43,4 +43,3 @@ matching.forEach(aboveage => {
 // for (let i = 0; i < jam.length; i++) {
 //     console.log(`One of ${jam[i].name} favorite hobbies is to ${jam[i].hobbies[1]}`);
 //   }
-
